@@ -57,7 +57,7 @@ object QuestionSource {
                 R.drawable.salzburg,
                 R.drawable.southampton,
                 R.drawable.lvp,
-                0,
+                R.drawable.bayern,
                 0,
                 0,
                 "MANE",
